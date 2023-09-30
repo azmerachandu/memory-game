@@ -1,3 +1,3 @@
 # memory card app
 
-Live demo: https://chandraprakash-dev.github.io/Memory-Card/
+Live demo: https://azmerachandu.github.io/memory-game/
