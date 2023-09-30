@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "alolan Ninetales",
+    "image": "/assets/images/alolan_ninetales.jpg"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "Blastoise",
+    "image": "/assets/images/blastoise.png"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "lugia",
+    "image": "/assets/images/lugia.jpg"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "luxray",
+    "image": "/assets/images/luxray.jpg"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "umbreon",
+    "image": "/assets/images/umbreon.jpg"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "dragonite",
+    "image": "/assets/images/dragonite.png"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "lapras",
+    "image": "/assets/images/lapras.png"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "Articuno",
+    "image": "/assets/images/articuno.png"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "Ampharos",
+    "image": "/assets/images/ampharos.png"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "girafirag",
+    "image": "/assets/images/girafirag-3.png"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "Pikachu",
+    "image": "/assets/images/pikachu-2.jpg"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "teddiursa",
+    "image": "/assets/images/teddiursa.png"
+  },
+  {
+    "id": 13,
+    "clicked": false,
+    "name": "houndoom",
+    "image": "/assets/images/houndoom-3.png"
+  },
+  {
+    "id": 14,
+    "clicked": false,
+    "name": "phanpy",
+    "image": "/assets/images/phanpy.png"
+  },
+  {
+    "id": 15,
+    "clicked": false,
+    "name": "ho-oh",
+    "image": "/assets/images/ho_oh-3.png"
+  },
+  {
+    "id": 16,
+    "clicked": false,
+    "name": "swampert",
+    "image": "/assets/images/swampert.png"
+  },
+  {
+    "id": 17,
+    "clicked": false,
+    "name": "Alakazam",
+    "image": "/assets/images/alakazam.png"
+  },
+  {
+    "id": 18,
+    "clicked": false,
+    "name": "Beautifly",
+    "image": "/assets/images/beautifly.png"
+  },
+  {
+    "id": 19,
+    "clicked": false,
+    "name": "Aron",
+    "image": "/assets/images/aron.jpg"
+  },
+  {
+    "id": 20,
+    "clicked": false,
+    "name": "Aggron",
+    "image": "/assets/images/aggron.png"
+  }
+]
